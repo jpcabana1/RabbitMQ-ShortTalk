@@ -1,0 +1,17 @@
+C:\dev\RabbitMQ-ShortTalk\Send\bin\Debug\net6.0\Send.exe
+C:\dev\RabbitMQ-ShortTalk\Send\bin\Debug\net6.0\Send.deps.json
+C:\dev\RabbitMQ-ShortTalk\Send\bin\Debug\net6.0\Send.runtimeconfig.json
+C:\dev\RabbitMQ-ShortTalk\Send\bin\Debug\net6.0\Send.dll
+C:\dev\RabbitMQ-ShortTalk\Send\bin\Debug\net6.0\Send.pdb
+C:\dev\RabbitMQ-ShortTalk\Send\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\dev\RabbitMQ-ShortTalk\Send\obj\Debug\net6.0\Send.csproj.AssemblyReference.cache
+C:\dev\RabbitMQ-ShortTalk\Send\obj\Debug\net6.0\Send.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\RabbitMQ-ShortTalk\Send\obj\Debug\net6.0\Send.AssemblyInfoInputs.cache
+C:\dev\RabbitMQ-ShortTalk\Send\obj\Debug\net6.0\Send.AssemblyInfo.cs
+C:\dev\RabbitMQ-ShortTalk\Send\obj\Debug\net6.0\Send.csproj.CoreCompileInputs.cache
+C:\dev\RabbitMQ-ShortTalk\Send\obj\Debug\net6.0\Send.csproj.CopyComplete
+C:\dev\RabbitMQ-ShortTalk\Send\obj\Debug\net6.0\Send.dll
+C:\dev\RabbitMQ-ShortTalk\Send\obj\Debug\net6.0\refint\Send.dll
+C:\dev\RabbitMQ-ShortTalk\Send\obj\Debug\net6.0\Send.pdb
+C:\dev\RabbitMQ-ShortTalk\Send\obj\Debug\net6.0\Send.genruntimeconfig.cache
+C:\dev\RabbitMQ-ShortTalk\Send\obj\Debug\net6.0\ref\Send.dll

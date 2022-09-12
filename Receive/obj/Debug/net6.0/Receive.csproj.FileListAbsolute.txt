@@ -1,0 +1,17 @@
+C:\dev\RabbitMQ-ShortTalk\Receive\obj\Debug\net6.0\Receive.csproj.AssemblyReference.cache
+C:\dev\RabbitMQ-ShortTalk\Receive\obj\Debug\net6.0\Receive.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\RabbitMQ-ShortTalk\Receive\obj\Debug\net6.0\Receive.AssemblyInfoInputs.cache
+C:\dev\RabbitMQ-ShortTalk\Receive\obj\Debug\net6.0\Receive.AssemblyInfo.cs
+C:\dev\RabbitMQ-ShortTalk\Receive\obj\Debug\net6.0\Receive.csproj.CoreCompileInputs.cache
+C:\dev\RabbitMQ-ShortTalk\Receive\bin\Debug\net6.0\Receive.exe
+C:\dev\RabbitMQ-ShortTalk\Receive\bin\Debug\net6.0\Receive.deps.json
+C:\dev\RabbitMQ-ShortTalk\Receive\bin\Debug\net6.0\Receive.runtimeconfig.json
+C:\dev\RabbitMQ-ShortTalk\Receive\bin\Debug\net6.0\Receive.dll
+C:\dev\RabbitMQ-ShortTalk\Receive\bin\Debug\net6.0\Receive.pdb
+C:\dev\RabbitMQ-ShortTalk\Receive\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\dev\RabbitMQ-ShortTalk\Receive\obj\Debug\net6.0\Receive.csproj.CopyComplete
+C:\dev\RabbitMQ-ShortTalk\Receive\obj\Debug\net6.0\Receive.dll
+C:\dev\RabbitMQ-ShortTalk\Receive\obj\Debug\net6.0\refint\Receive.dll
+C:\dev\RabbitMQ-ShortTalk\Receive\obj\Debug\net6.0\Receive.pdb
+C:\dev\RabbitMQ-ShortTalk\Receive\obj\Debug\net6.0\Receive.genruntimeconfig.cache
+C:\dev\RabbitMQ-ShortTalk\Receive\obj\Debug\net6.0\ref\Receive.dll
