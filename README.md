@@ -17,3 +17,12 @@
 - dotnet add package RabbitMQ.Client
 - cd ../Receive
 - dotnet add package RabbitMQ.Client
+
+### Start Send
+
+- cd Send
+- dotnet run
+
+### Start Receive
+- cd Receive
+- dotnet run
