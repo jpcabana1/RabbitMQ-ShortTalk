@@ -1,0 +1,17 @@
+C:\dev\RabbitMQ-ShortTalk\Work Queues\Worker\bin\Debug\net6.0\Worker.exe
+C:\dev\RabbitMQ-ShortTalk\Work Queues\Worker\bin\Debug\net6.0\Worker.deps.json
+C:\dev\RabbitMQ-ShortTalk\Work Queues\Worker\bin\Debug\net6.0\Worker.runtimeconfig.json
+C:\dev\RabbitMQ-ShortTalk\Work Queues\Worker\bin\Debug\net6.0\Worker.dll
+C:\dev\RabbitMQ-ShortTalk\Work Queues\Worker\bin\Debug\net6.0\Worker.pdb
+C:\dev\RabbitMQ-ShortTalk\Work Queues\Worker\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\dev\RabbitMQ-ShortTalk\Work Queues\Worker\obj\Debug\net6.0\Worker.csproj.AssemblyReference.cache
+C:\dev\RabbitMQ-ShortTalk\Work Queues\Worker\obj\Debug\net6.0\Worker.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\RabbitMQ-ShortTalk\Work Queues\Worker\obj\Debug\net6.0\Worker.AssemblyInfoInputs.cache
+C:\dev\RabbitMQ-ShortTalk\Work Queues\Worker\obj\Debug\net6.0\Worker.AssemblyInfo.cs
+C:\dev\RabbitMQ-ShortTalk\Work Queues\Worker\obj\Debug\net6.0\Worker.csproj.CoreCompileInputs.cache
+C:\dev\RabbitMQ-ShortTalk\Work Queues\Worker\obj\Debug\net6.0\Worker.csproj.CopyComplete
+C:\dev\RabbitMQ-ShortTalk\Work Queues\Worker\obj\Debug\net6.0\Worker.dll
+C:\dev\RabbitMQ-ShortTalk\Work Queues\Worker\obj\Debug\net6.0\refint\Worker.dll
+C:\dev\RabbitMQ-ShortTalk\Work Queues\Worker\obj\Debug\net6.0\Worker.pdb
+C:\dev\RabbitMQ-ShortTalk\Work Queues\Worker\obj\Debug\net6.0\Worker.genruntimeconfig.cache
+C:\dev\RabbitMQ-ShortTalk\Work Queues\Worker\obj\Debug\net6.0\ref\Worker.dll
